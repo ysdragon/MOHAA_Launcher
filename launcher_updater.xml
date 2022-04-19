@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate>
    <update>
-      <version>1.0.0.1</version>
+      <version>1.0.0.3</version>
       <url>https://raw.githubusercontent.com/DraGo0oN/MOHAA_Launcher/main/Updates/MOHAA%20Launcher.exe</url>
       <filePath>./MOHAA Launcher.exe</filePath>
       <md5>2FFA870C5E63EC170876EF5296F3C6E8</md5>
