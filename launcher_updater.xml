@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <sharpUpdate>
    <update>
-      <version>1.0.0.0</version>
+      <version>1.0.0.1</version>
       <url>https://raw.githubusercontent.com/DraGo0oN/MOHAA_Launcher/main/Updates/MOHAA%20Launcher.exe</url>
       <filePath>./MOHAA Launcher.exe</filePath>
-      <md5>119828E2510585233909560B295D8CFA</md5>
+      <md5>2FFA870C5E63EC170876EF5296F3C6E8</md5>
       <description>Update: 19/04/2022: 1. Adding Donate Button.</description>
       <launchArgs />
    </update>
