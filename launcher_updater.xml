@@ -4,7 +4,7 @@
       <url>https://raw.githubusercontent.com/DraGo0oN/MOHAA_Launcher/main/Updates/MOHAA%20Launcher.exe</url>
       <filePath>./MOHAA Launcher.exe</filePath>
       <md5>119828E2510585233909560B295D8CFA</md5>
-      <description>Update: 19/04/2022: 1. Adding Screenshot Uploader.</description>
+      <description>Update: 19/04/2022: 1. Adding Donate Button.</description>
       <launchArgs />
    </update>
 </sharpUpdate>
