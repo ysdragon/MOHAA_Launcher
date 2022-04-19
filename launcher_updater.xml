@@ -1,8 +1,8 @@
 <sharpUpdate>
    <update>
-      <version>1.0.0.0</version>
+      <version>1.0.0.1</version>
       <url>https://raw.githubusercontent.com/DraGo0oN/MOHAA_Launcher/main/Updates/updater.exe</url>
-      <filePath>./MOHAA Launcher.exe</filePath>
+      <filePath>./'MOHAA Launcher.exe'</filePath>
       <md5>069B78A17D29267192C3356F2566729A</md5>
       <description>Update: 19/04/2022: 1. Updated a label.</description>
       <launchArgs />
